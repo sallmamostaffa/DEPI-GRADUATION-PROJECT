@@ -1,1 +1,2 @@
-# DEPI GRADUATION PROJECT
+# eduX E-learning Platform
+
