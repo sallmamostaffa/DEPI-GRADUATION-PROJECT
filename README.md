@@ -17,24 +17,21 @@ Our mission is to enhance the e-learning experience through data-driven insights
 
 ### Phase 1: Data Management and Database Setup  
 - **Database Design**  
-  - Designed a relational database using SQL Server to store:  
-    - Customer data  
-    - Course content  
-    - Interaction history  
+  - We designed a relational database using SQL Server that ensures reliable storage and retrieval of customer data, course content, and interaction history.
+    ![Alt Text](image-url)
 
 ---
 
 ### Phase 2: Data Warehousing  
-- **Data Warehouse Implementation**  
-  - Created a bus matrix to identify business processes and derive Data Marts.  
-  - Developed a dimensional model with:  
-    - **Fact Tables**: (e.g., `FactUserProgress`) to record customer actions.  
-    - **Dimension Tables**: (e.g., `DimUsers`, `DimCourse`, `DimLesson`) for detailed descriptions.  
+- **Data Warehouse Implementation**
+  - Bus matrix To identify business processes and turn them into Data Marts.
+  - Business Schema: Our data warehouse follows a dimensional model with fact tables (such as FactUserProgress) that record customer actions and dimension tables (e.g., DimUsers,   
+    DimCourse, DimLesson) that provide detailed descriptions of each customer, course, or interaction so that we can apply CHURN analysis on it.
 
+### Phase 2: population 
 - **ETL Process with SSIS**  
-  - Extracted data from the operational database.  
-  - Transformed data into meaningful structures.  
-  - Loaded data into the data warehouse.  
+  We designed and implemented an ETL (Extract, Transform, Load) process using SQL Server Integration Services (SSIS). This allowed us to extract data from the operational database and transform it into meaningful structures for analysis in the data warehouse.
+
 
 ---
 
@@ -72,8 +69,13 @@ Our mission is to enhance the e-learning experience through data-driven insights
 
 ### Phase 5: Deployment  
 - **Data Insertion**  
-  - Manual data insertion.  
-  - Bulk data insertion for efficient handling.  
+  - Manual data insertion.
+ 
+    ![image](https://github.com/user-attachments/assets/66bff9ec-71e6-402f-aa6b-ced18f321a14)
+
+  - Bulk data insertion for efficient handling.
+   ![image](https://github.com/user-attachments/assets/c2c9f209-fd75-4060-833e-87151c4edcac)
+
 
 ---
 
