@@ -83,13 +83,12 @@ Our mission is to enhance the e-learning experience through data-driven insights
 ---
 
 ## Our Team  
-- [Maya Assem](https://linkedin.com)  
-- [Fairouz Maher](https://linkedin.com)  
-- [Amany Ahmed](https://linkedin.com)  
-- [Salma Mostafa](https://linkedin.com)  
-- [Mawada Abdelsalam](https://linkedin.com)  
+- [Salma Mostafa](https://www.linkedin.com/in/sallmamostaffa/)  
+- [Maya Assem](https://www.linkedin.com/in/maya-assem-611b4723b/)  
+- [Fairouz Maher](https://www.linkedin.com/in/fairouz-ghazaly-76103227b/)  
+- [Amany Ahmed](https://www.linkedin.com/in/amany-ahmed-4ba22632b/)  
+- [Mawada Abdelsalam](https://www.linkedin.com/in/mawada-a-salam-20a3b7274/)  
 
----
 
 ## Contact Us  
 For inquiries or collaboration, reach out to us via our LinkedIn profiles.
