@@ -18,7 +18,8 @@ Our mission is to enhance the e-learning experience through data-driven insights
 ### Phase 1: Data Management and Database Setup  
 - **Database Design**  
   - We designed a relational database using SQL Server that ensures reliable storage and retrieval of customer data, course content, and interaction history.
-    ![Alt Text](image-url)
+   ![image](https://github.com/user-attachments/assets/3a3340db-c0c3-480b-94f4-d84927ffee22)
+
 
 ---
 
